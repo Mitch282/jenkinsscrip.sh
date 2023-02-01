@@ -22,7 +22,7 @@ apt install vim git -Y
 ## Extra packages
 apt-get install vim git -y
 
-## extra packages
+## Extra packages
 apt-get install vim git -y 
 # run jenkins
 mkdir -p /var/jenkins_home
